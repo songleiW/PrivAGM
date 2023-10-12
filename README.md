@@ -19,7 +19,6 @@ Download and preprocess MOOC:
 Download the [MOOC user action dataset](https://snap.stanford.edu/data/act-mooc.html) and place the dataset in Datasets/mooc/.
 
 The Twitter network represents Twitter social network
-Download and preprocess Reddit:
 
 Download the [Twitter dataset](https://snap.stanford.edu/data/ego-Twitter.html) and place the dataset in Datasets/twitter/.
 
