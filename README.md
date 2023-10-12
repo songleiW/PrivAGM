@@ -16,16 +16,16 @@ To get started with this code, you can simply clone the repository.
 The MOOC user action dataset represents the actions taken by users on a popular MOOC platform. The actions are represented as a directed, attributed network.
 Download and preprocess MOOC:
 
-Download the [MOOC user action dataset](https://snap.stanford.edu/data/act-mooc.html) and place the dataset in datasets/mooc/.
+Download the [MOOC user action dataset](https://snap.stanford.edu/data/act-mooc.html) and place the dataset in Datasets/mooc/.
 
 The Twitter network represents Twitter social network
 Download and preprocess Reddit:
 
-Download the [Twitter dataset](https://snap.stanford.edu/data/ego-Twitter.html) and place the dataset in datasets/twitter/.
+Download the [Twitter dataset](https://snap.stanford.edu/data/ego-Twitter.html) and place the dataset in Datasets/twitter/.
 
 The gplus dataset represents the gplus social network. 
 
-Download the [Gplus dataset](https://snap.stanford.edu/data/ego-Gplus.html) and place the dataset in datasets/gplus/.
+Download the [Gplus dataset](https://snap.stanford.edu/data/ego-Gplus.html) and place the dataset in Datasets/gplus/.
 
 
 
