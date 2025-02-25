@@ -26,8 +26,6 @@ The gplus dataset represents the gplus social network.
 
 Download the [Gplus dataset](https://snap.stanford.edu/data/ego-Gplus.html) and place the dataset in Datasets/gplus/.
 
-Download the [Weibo dataset](https://www.aminer.cn/influencelocality) and place the dataset in Datasets/weibo/.
-
 
 
 ## Execution Environment
